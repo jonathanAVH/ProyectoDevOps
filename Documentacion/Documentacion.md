@@ -29,11 +29,11 @@ Primero que todo una vista de lo que es la plataforma Web de producción.
 
 **Pasos para hacer DevOps**
 
-1. Realizamos un cambio en el código por medio de visual studio code. En este caso se va a cambiar el color de fondo de la página Web y procedemos a guardar los cambios. 
+Primer paso: Realizamos un cambio en el código por medio de visual studio code. En este caso se va a cambiar el color de fondo de la página Web y procedemos a guardar los cambios. 
 
 ![](Aspose.Words.b56932c9-0769-40bb-b4cf-e19b37a0eedd.002.png)
 
-1. Ahora necesitamos guardar estos cambios directamente en el GitHup, por medio de la terminal con los siguientes comandos o instrucciones. 
+Segundo paso: Ahora necesitamos guardar estos cambios directamente en el GitHup, por medio de la terminal con los siguientes comandos o instrucciones. 
    1. Git int
    1. Git add .
    1. Git commit -m “Cambio de color”
@@ -41,7 +41,7 @@ Primero que todo una vista de lo que es la plataforma Web de producción.
 
 ![](Aspose.Words.b56932c9-0769-40bb-b4cf-e19b37a0eedd.003.png)
 
-1. Vamos a ver el proceso de despliegue en el Jenkins que esta alojada en la ip 147.182.206.150 la cual es proporcionado por digital ocean donde montamos la maquina virtual 
+Tercer paso: Vamos a ver el proceso de despliegue en el Jenkins que esta alojada en la ip 147.182.206.150 la cual es proporcionado por digital ocean donde montamos la maquina virtual 
 
 ![](Aspose.Words.b56932c9-0769-40bb-b4cf-e19b37a0eedd.004.png)
 
@@ -53,7 +53,7 @@ Entonces procedemos a ingresar a Jenkins a el navegador
 
 ![](Aspose.Words.b56932c9-0769-40bb-b4cf-e19b37a0eedd.006.png)
 
-1. seleccionamos el pipeline que en este caso se llama tallar DevOps en este apartado podemos ver el proceso de despliegue.
+Cuarto paso: Seleccionamos el pipeline que en este caso se llama tallerDevOps en este apartado podemos ver el proceso de despliegue.
 
 ![](Aspose.Words.b56932c9-0769-40bb-b4cf-e19b37a0eedd.007.png)
 
@@ -64,6 +64,9 @@ Entonces procedemos a ingresar a Jenkins a el navegador
 
 ![](Aspose.Words.b56932c9-0769-40bb-b4cf-e19b37a0eedd.008.png)
 
-1. Ya por último procedemos a ver los cambios en la pagina web de Producción.
+Quinto paso: Ya por último procedemos a ver los cambios en la pagina web de Producción.
 
 ![](Aspose.Words.b56932c9-0769-40bb-b4cf-e19b37a0eedd.009.png)
+
+**Conclusion**
+E.
