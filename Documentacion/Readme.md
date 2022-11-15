@@ -69,4 +69,4 @@ Quinto paso: Ya por último procedemos a ver los cambios en la pagina web de Pro
 ![](Aspose.Words.b56932c9-0769-40bb-b4cf-e19b37a0eedd.009.png)
 
 **Conclusion**
-E.
+Con este pequeño proyecto nos podemos dar cuenta que DevOps es una herramienta muy efectiva si de tener rapidez y frecuencia de despliegue de software se trata, generando una gran cantidad de éxitos en las empresas y así mismo obteniendo más valor en los productos. Además, que con el tiempo que ahorramos en los despliegues lo podemos usar en una mayor creatividad para mejorar los sistemas de software. 
